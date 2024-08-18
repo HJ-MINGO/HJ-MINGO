@@ -17,3 +17,11 @@ Here are some ideas to get you started:
 <button><img src="https://img.shields.io/badge/any_text-you_like-blue" alt="로고버튼"></button>
 <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HJ-MINGO&show_icons=true&theme=radical)
+<br/>
+name: Half-year calendar
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.isocalendar.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_isocalendar: yes
