@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <button><img src="https://img.shields.io/badge/any_text-you_like-blue" alt="로고버튼"></button>
-<br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HJ-MINGO&show_icons=true&theme=radical)
-<br/>
+</br>
 <button><img src="https://github.com/HJ-MINGO/github-stats-terminal-style/raw/master/github_stats.svg" alt="로고버튼"></button>
