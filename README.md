@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HJ-MINGO&show_icons=true&theme=radical)
 <br/>
-https://github.com/HJ-MINGO/github-stats-terminal-style/raw/master/github_stats.svg
+<button><img src="https://github.com/HJ-MINGO/github-stats-terminal-style/raw/master/github_stats.svg" alt="로고버튼"></button>
