@@ -18,10 +18,4 @@ Here are some ideas to get you started:
 <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HJ-MINGO&show_icons=true&theme=radical)
 <br/>
-name: Half-year calendar
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.isocalendar.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_isocalendar: yes
+https://github.com/HJ-MINGO/github-stats-terminal-style/raw/master/github_stats.svg
