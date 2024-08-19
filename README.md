@@ -55,4 +55,6 @@ Here are some ideas to get you started:
 </details>
 <br>
 ## 🌈Github-Stats ☁
+### This is a H3
+#### This is a H3
 <button><img src="https://github.com/HJ-MINGO/github-stats-terminal-style/raw/master/github_stats.svg" alt="로고버튼"></button>
