@@ -53,5 +53,6 @@ Here are some ideas to get you started:
       <!-- Others -->
       <p><strong>Others</strong></p>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+    
   </details>
 </div>
