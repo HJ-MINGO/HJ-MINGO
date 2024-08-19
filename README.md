@@ -1,4 +1,6 @@
-## ❌ NOTICE 🚫
+## 🌈Github-Stats ☁
+<div><button><img src="https://github.com/HJ-MINGO/github-stats-terminal-style/raw/master/github_stats.svg" alt="로고버튼"></button></div>
+</br>
 <!--
 **HJ-MINGO/HJ-MINGO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--<img src="https://github.com/HJ-MINGO/HJ-MINGO/raw/main/logo/MINGO_LOGO.gif" width=54% text-aligth="center" alt="로고"> -->
+## ❌ NOTICE 🚫
 <div>
   <details>
     <summary>
@@ -53,4 +56,3 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   </details>
 </div>
----
