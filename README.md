@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-    <img src="https://img.shields.io/badge/WebSquare-blue">
+    <img src="https://img.shields.io/badge/WebSquare-blue" width="100px">
     <!-- Database -->
     <p><strong>Database</strong></p>
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
