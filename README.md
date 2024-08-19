@@ -53,5 +53,6 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   </details>
 </div>
-<br> ## 🌈Github-Stats ☁
-<button><img src="https://github.com/HJ-MINGO/github-stats-terminal-style/raw/master/github_stats.svg" alt="로고버튼"></button>
+<br> 
+## 🌈Github-Stats ☁
+<div><button><img src="https://github.com/HJ-MINGO/github-stats-terminal-style/raw/master/github_stats.svg" alt="로고버튼"></button></div>
