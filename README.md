@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--<img src="https://github.com/HJ-MINGO/HJ-MINGO/raw/main/logo/MINGO_LOGO.gif" width=54% text-aligth="center" alt="로고"> -->
-<br> 
-## Github-Stats ☁
 <div>
-  <details open>
+  <details>
     <summary>
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="2%" /> SKILL ... 
     </summary>
@@ -55,4 +53,5 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   </details>
 </div>
-<div><button><img src="https://github.com/HJ-MINGO/github-stats-terminal-style/raw/master/github_stats.svg" alt="로고버튼"></button></div>
+<br> 
+## Github-Stats ☁
