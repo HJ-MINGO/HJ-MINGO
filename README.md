@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 <!--<img src="https://github.com/HJ-MINGO/HJ-MINGO/raw/main/logo/MINGO_LOGO.gif" width=54% text-aligth="center" alt="로고"> -->
 <div>
-  <details>
+  <details open>
     <summary>
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="2%" /> SKILL ... 
     </summary>
