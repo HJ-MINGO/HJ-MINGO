@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 <button><img src="https://img.shields.io/badge/any_text-you_like-blue" alt="로고버튼"></button>
 <img src="https://github.com/HJ-MINGO/HJ-MINGO/raw/main/logo/MINGO_LOGO.gif" alt="로고">
 </br>
-<button><img src="https://github.com/HJ-MINGO/github-stats-terminal-style/raw/master/github_stats.svg" alt="로고버튼"></button>
+<button><img src="https://github.com/HJ-MINGO/github-stats-terminal-style/raw/master/github_stats.svg" width=100% alt="로고버튼"></button>
