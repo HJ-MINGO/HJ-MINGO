@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <!--<img src="https://github.com/HJ-MINGO/HJ-MINGO/raw/main/logo/MINGO_LOGO.gif" width=54% text-aligth="center" alt="로고"> -->
 <br> 
-## 🌈Github-Stats ☁
+## Github-Stats ☁
 <div>
   <details open>
     <summary>
