@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!--<img src="https://github.com/HJ-MINGO/HJ-MINGO/raw/main/logo/MINGO_LOGO.gif" width=54% text-aligth="center" alt="로고"> -->
 <details>
   <summary>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sparkler.png" alt="Eyes" width="2%" /> 내가 지금 배우는 ... 
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkler.png" alt="Eyes" width="2%" /> 내가 지금 배우는 ... 
   </summary>
   <br>
   
