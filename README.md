@@ -54,5 +54,5 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </details>
 </br>
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Balloon.png" alt="Balloon" width="2%" />Github-Stats<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Balloon.png" alt="Balloon" width="2%" />
+## 🌈 Github-Stats ☁
 <button><img src="https://github.com/HJ-MINGO/github-stats-terminal-style/raw/master/github_stats.svg" alt="로고버튼"></button>
